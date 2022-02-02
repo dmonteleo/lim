@@ -1,0 +1,66 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  font-family: "Arial", Sans-serif;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 7%;
+  border-radius: 3%;
+  /*width: 200px;
+  length: 300px;*/
+  margin-top: 2%;
+  margin-left: 17%;
+  margin-right: 17%;
+  margin-bottom: 7%;
+}
+
+header {
+  text-align: center;
+  color: #00dd00;
+}
+
+#logo{
+  lenght: 200px;
+  width: 200px;
+}
+
+nav {
+  text-align: center;
+  background-color: #00dd00;
+  padding: 10px;
+}
+
+main {
+  color: white;
+}
+
+#carica1{
+  width: 250px;
+  border-radius: 5px;
+  background-color: #f5b453;
+  color: #f5b453;
+}
+
+
+#carica2{
+  width: 400px;
+  border-radius: 5px;
+  background-color: #00dd00;
+  color: #00dd00;
+}
+
+#carica3{
+  width: 100px;
+  border-radius: 5px;
+  background-color: #be4141;
+  color: #be4141;
+}
+
+.monopattino{
+
+  font-weight: 350;
+  font-size: 125%;
+  display: inline-block;
+}
